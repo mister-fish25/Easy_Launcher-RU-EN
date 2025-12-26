@@ -58,3 +58,9 @@ You will need two programs:
 2) Select "Install Version" and enter the version number (example: 1.16.5)
 3) Wait for the installation to complete, then select "Launch Minecraft," enter the downloaded version number, and enter your nickname.
 4) Done! Now you can play Minecraft alone or with friends.
+
+RU
+
+Планы на будущее:
+
+❓Добавить выбор загрузчика модов (Forge, NeoForge, Fabric...)
