@@ -64,3 +64,9 @@ RU
 Планы на будущее:
 
 ❓Добавить выбор загрузчика модов (Forge, NeoForge, Fabric...)
+
+EN
+
+Future plans:
+
+❓Add mod loader options (Forge, NeoForge, Fabric, etc.)
